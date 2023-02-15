@@ -61,7 +61,7 @@ body {
 
   max-width: 22.7rem;
 
-  overflow: hidden;
+  overflow-wrap: break-word;
 }
 
 .botao {
