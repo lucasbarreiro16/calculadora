@@ -34,8 +34,6 @@ body {
   border-radius: 1.5rem;
 
   padding: 1.5rem;
-
-  max-width: 27rem;
 }
 
 .calculadora h2 {
@@ -58,8 +56,6 @@ body {
   text-align: right;
 
   padding: 0.2rem 0.5rem;
-
-  max-width: 22.7rem;
 
   overflow-wrap: break-word;
 }
